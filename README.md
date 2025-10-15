@@ -68,23 +68,7 @@ I write in-depth technical articles about AI testing methodologies and metrics o
 - 📈 [Testing AI Models - Part 2](https://habr.com/ru/articles/932266/) - Deep dive into evaluation metrics: Precision, Recall, Specificity, Confusion Matrix, MAP, MRR with Python implementations
 - 🔬 [Testing AI Models - Part 3](https://habr.com/ru/articles/935408/) - Comprehensive guide to AI evaluation metrics including F-Beta Score, BLEU, ROUGE, BERTScore, InfoLM, CER, ChrF, TER, WER, Cross-Entropy, and custom SACEL metric
 - 🎯 [Testing AI Models - Part 4](https://habr.com/ru/articles/951222/) - RAG evaluation metrics and advanced AI testing techniques
-- 🚀 **Coming Soon:** Complete DeepEval Framework Guide - Comprehensive overview of 32+ metrics covering:
-  - **Agentic Metrics**: Task Completion, Tool Correctness, Argument Correctness
-  - **Multi-Turn Metrics**: Turn Relevancy, Role Adherence, Knowledge Retention, Conversation Completeness
-  - **MCP Metrics**: MCP-Use, Multi-Turn MCP-Use, MCP Task Completion
-  - **Safety Metrics**: Bias, Toxicity, Non-Advice, Misuse, PII Leakage, Role Violation
-  - **General Metrics**: Summarization, Prompt Alignment, Hallucination, JSON Correctness
-  - **Multimodal Metrics**: Image Coherence, Image Helpfulness, Text-to-Image, Image Editing, and more
-  - Practical implementations using **Checkpointer** and **LangSmith**
-
-**Key Topics:**
-- Custom AI testing methodologies development
-- Evaluation metrics analysis and implementation
-- AI Agents and MCP (Model Context Protocol) testing
-- Safety and ethical AI evaluation
-- Multimodal AI systems testing
-- Python code examples for each metric
-- Practical applications in real projects
+- 🚀 [Testing AI Models - Part 5](https://habr.com/ru/articles/955314/) - Complete DeepEval Framework Guide - Comprehensive overview of 32+ metrics.
 
 ---
 
