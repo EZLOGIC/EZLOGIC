@@ -69,6 +69,7 @@ I write in-depth technical articles about AI testing methodologies and metrics o
 - 🔬 [Testing AI Models - Part 3](https://habr.com/ru/articles/935408/) - Comprehensive guide to AI evaluation metrics including F-Beta Score, BLEU, ROUGE, BERTScore, InfoLM, CER, ChrF, TER, WER, Cross-Entropy, and custom SACEL metric
 - 🎯 [Testing AI Models - Part 4](https://habr.com/ru/articles/951222/) - RAG evaluation metrics and advanced AI testing techniques
 - 🚀 [Testing AI Models - Part 5](https://habr.com/ru/articles/955314/) - Complete DeepEval Framework Guide - Comprehensive overview of 32+ metrics.
+- 🏷️ [Testing AI Models - Part 6](https://habr.com/ru/articles/957846/) - Comparative analysis of AI models (BERT, ChatGPT, YandexGPT, Yandex Classifier) for automated text classification
 
 ---
 
